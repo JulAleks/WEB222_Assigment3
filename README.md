@@ -1,4 +1,4 @@
-# Assignment 3 - Music Genre/Musician Website
+# Assignment 3 / First Year - Music Genre/Musician Website
 
 This repository contains my Assignment 3 project, where I built a website using HTML and CSS to showcase my favorite music genre and/or musician.
 
